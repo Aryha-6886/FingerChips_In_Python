@@ -11,7 +11,7 @@ Simple Python repository for the "FingerChips" project. This repository contains
 
 1. Clone the repository:
 
-   git clone https://github.com/Aryha-6886/FingerChips_In_Python.git
+   git clone https://github.com/SSA-66/FingerChips_In_Python.git
    cd FingerChips_In_Python
 
 2. Create and activate a virtual environment (recommended):
